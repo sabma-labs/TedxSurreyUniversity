@@ -1,0 +1,122 @@
+{
+  "brand": { "name": "TEDxSurreyUniversity", "logoText": "TEDxSurreyUniversity", "logoUrl":"/logo-black.png", "footerLogoUrl": "/logo-white.png" },
+
+  "event": {
+    "title": "Echoes of What's Next",
+    "tagline": "Ideas That Resonate. Futures That Emerge.",
+    "date": "2025-11-11T10:00:00",
+    "dateLabel": "11 November 2025",
+    "timeLabel": "10:00–18:00",
+    "location": "University of Surrey, Guildford, UK",
+    "addressLink": "https://maps.google.com",
+    "registerUrl": "https://www.eventbrite.com/",
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  },
+
+  "hero": {
+    "background": {
+      "gradient": "bg-gradient-to-br from-black via-zinc-900 to-black"
+    }
+  },
+
+  "about": {
+    "heading": "What is TEDxSurreyUniversity?",
+    "body": "TEDxSurreyUniversity is a community-driven TEDx event licensed by TED, bringing together thinkers, builders, and creators to share ideas worth spreading. Expect a full day of inspiring talks, live performances, and meaningful connections."
+  },
+
+  "whatIsTedx": {
+    "heading": "What is TEDx?",
+    "body": "In the spirit of discovering and spreading ideas, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxYourCity, where x = independently organized TED event. At our TEDxYourCity event, TED Talks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized."
+  },
+
+  "aboutTedx": {
+    "heading": "About TEDx (x = independently organized event)",
+    "body": "In the spirit of discovering and spreading ideas, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)"
+  },
+
+  "aboutTed": {
+    "heading": "About TED",
+    "body": "TED is a nonprofit, nonpartisan organization dedicated to discovering, debating and spreading ideas that spark conversation, deepen understanding and drive meaningful change. Our organization is devoted to curiosity, reason, wonder and the pursuit of knowledge — without an agenda. We welcome people from every discipline and culture who seek a deeper understanding of the world and connection with others, and we invite everyone to engage with ideas and activate them in your community. TED began in 1984 as a conference where Technology, Entertainment and Design converged, but today it spans a multitude of worldwide communities and initiatives exploring everything from science and business to education, arts and global issues. In addition to the TED Talks curated from our annual conferences and published on TED.com, we produce original podcasts, short video series, animated educational lessons (TED-Ed) and TV programs that are translated into more than 100 languages and distributed via partnerships around the world. Each year, thousands of independently run TEDx events bring people together to share ideas and bridge divides in communities on every continent. Through the Audacious Project, TED has helped catalyze more than $3 billion in funding for projects that seek to make the world more beautiful, sustainable and just. In 2020, TED launched Countdown, an initiative to accelerate solutions to the climate crisis and mobilize a movement for a net-zero future, and in 2023 TED launched TED Democracy to spark a new kind of conversation focused on realistic pathways towards a more vibrant and equitable future."
+  },
+  "contact": {
+    "email": "m.budlla@surrey.ac.uk",
+    "phone": "+447417500064",
+    "socials": {
+      "instagram": "https://www.instagram.com/tedxsurreyuniversity/",
+      "linkedin": "https://www.linkedin.com/company/tedxsurreyuniversity/about/",
+      "youtube": "https://www.youtube.com/playlist?list=PLsRNoUx8w3rN0We5A8bSTgfAd0oO2CGZS"
+    }
+  },
+
+  "videosHeading": "Talks from TEDxSurreyUniversity",
+  "videos": [
+    {
+      "title": "How to be socially magnetic",
+      "speaker": "Ben Chai",
+      "Views": "1.6M",
+      "url": "https://youtu.be/y0tVnE-8mwU?si=bykXiAvOE9aCvkWy"
+    },
+    {
+      "title": "How to be positively delusional ",
+      "speaker": "Hannah Ajala",
+      "date": "7 Dec 2023",
+      "url": "https://youtu.be/f_g9cg1U4vY?si=d2leCQtmLWzF6GUw"
+    },
+    {
+      "title": "Lessons a drug addict can teach you ",
+      "speaker": "Lauren Windle" ,
+      "Views": "573K",
+      "url": "https://youtu.be/ytVxYTavE1U?si=C2zMIS17XP-eqM1L"
+    }
+  ],
+  "teams": [
+    {
+      "name": "Organizing Committee",
+      "description": "Overall direction and license compliance.",
+      "heads": [
+        { "name": "Jane Doe", "role": "Licensee & Curator", "photo": "/images/team/jane.jpg" }
+      ],
+      "members": [
+        { "name": "John Lee", "role": "Co-Organizer", "photo": "/images/team/john.jpg" },
+        { "name": "Amara Patel", "role": "Producer", "photo": "/images/team/amara.jpg" }
+      ]
+    },
+    {
+      "name": "Production",
+      "heads": [{ "name": "Chris Wong", "role": "Head of Production", "photo": "/images/team/chris.jpg" }],
+      "members": [
+        { "name": "Maya Singh", "role": "Stage Manager", "photo": "/images/team/maya.jpg" }
+      ]
+    }
+  ],
+  "sponsors": {
+    "heading": "Partners & Sponsors"
+  },
+  "sponsorsIntro": "We’re grateful to our partners who make TEDxSurreyUniversity possible.",
+  "sponsorHighlight": {
+    "name": "Headline Partner Ltd.",
+    "img": "/images/sponsors/headline.png",
+    "blurb": "Our headline partner enabling the event."
+  },
+  "sponsorTiers": [
+    {
+      "name": "Gold Partners",
+      "description": "Primary supporters across the event.",
+      "partners": [
+        { "name": "Acme Corp", "url": "#", "img": "/images/sponsors/acme.png" },
+        { "name": "Globex", "url": "#", "img": "/images/sponsors/globex.png" }
+      ]
+    },
+    {
+      "name": "Community Partners",
+      "partners": [
+        { "name": "Innotech", "url": "#", "img": "/images/sponsors/innotech.png" }
+      ]
+    }
+  ],
+
+  "sponsorship": {
+    "deckUrl": "/docs/sponsorship-deck.pdf",
+    "microsoftFormUrl": "https://forms.office.com/e/4umdiFEfF6"
+  }
+}

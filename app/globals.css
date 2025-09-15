@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "tailwindcss";
+
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* === TEDxBath-inspired light background ===
+   Soft warm radial washes + subtle paper-like texture */
+.site-bg {
+  background:
+    radial-gradient(1400px 700px at 10% -10%, #fff1f1 0%, transparent 60%),
+    radial-gradient(1000px 600px at 90% 0%, #f7f7f7 0%, transparent 50%),
+    radial-gradient(1200px 800px at 50% 120%, #fdf6f6 0%, transparent 60%),
+    linear-gradient(#ffffff, #ffffff);
+  background-attachment: fixed;
+}
+
+/* ultra-subtle texture overlay */
+.site-bg::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      rgba(0,0,0,0.015),
+      rgba(0,0,0,0.015) 1px,
+      transparent 1px,
+      transparent 2px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      rgba(0,0,0,0.015),
+      rgba(0,0,0,0.015) 1px,
+      transparent 1px,
+      transparent 2px
+    );
+  mix-blend-mode: multiply;
+}
