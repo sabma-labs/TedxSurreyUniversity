@@ -4,10 +4,10 @@ import Hero from "@/app/components/Hero";
 import AboutSection from "@/app/components/sections/AboutSection";
 import SpeakersSection from "@/app/components/sections/SpeakersSection";
 import VideosSection from "@/app/components/sections/VideosSection";
-import NominateSection from "@/app/components/sections/NominateSection";
-import ScheduleSection from "@/app/components/sections/ScheduleSection";
+//import NominateSection from "@/app/components/sections/NominateSection";
+//import ScheduleSection from "@/app/components/sections/ScheduleSection";
 import VenueSection from "@/app/components/sections/VenueSection";
-import WhatIsTedxSection from "@/app/components/sections/WhatIsTedxSection";
+//import WhatIsTedxSection from "@/app/components/sections/WhatIsTedxSection";
 import CountdownClient from "@/app/components/CountdownClient";
 import Footer from "@/app/components/Footer";
 

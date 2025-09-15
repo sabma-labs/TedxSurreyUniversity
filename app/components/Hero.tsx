@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { motion } from "framer-motion";
-import { Calendar, MapPin, Clock, Play, ArrowRight, AlertCircle } from "lucide-react";
+import { Calendar, MapPin, Clock, ArrowRight, AlertCircle } from "lucide-react";
 import content from "@/content/site.json";
 
 export default function Hero() {
