@@ -4,6 +4,11 @@ import type { Metadata, Viewport } from "next";
 export const metadata: Metadata = {
   title: "TEDx",
   description: "Ideas worth spreading.",
+  icons: {
+    icon: "/images/favicon/favicon.ico",
+    shortcut: "/images/favicon/favicon-16x16.png",
+    apple: "/images/favicon/apple-touch-icon.png",
+  }
 };
 
 export const viewport: Viewport = {
