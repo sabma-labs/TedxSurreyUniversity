@@ -63,3 +63,11 @@ body {
     );
   mix-blend-mode: multiply;
 }
+
+html.tedx-modal-open.site-root {
+  filter: blur(2px);
+  transform: scale(0.995);
+  transition: filter 160ms ease, transform 160ms ease;
+  /* Prevent clicking the background while modal is open */
+  pointer-events: none;
+}  

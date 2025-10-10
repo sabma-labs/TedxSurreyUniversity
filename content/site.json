@@ -9,9 +9,11 @@
     "timeLabel": "10:00–18:00",
     "location": "University of Surrey, Guildford, UK",
     "addressLink": "https://maps.google.com",
-    "registerUrl": "https://www.eventbrite.com/",
-    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    "ticketsUrl": "https://www.eventbrite.co.uk/e/tedxsurreyuniversity-tickets-1801426889319?aff=oddtdtcreator",
+    "trailerUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "ticketSalesOpen": 1
   },
+  
 
   "hero": {
     "background": {

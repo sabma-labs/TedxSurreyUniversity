@@ -94,7 +94,7 @@ export default function Hero() {
           <div className="mt-7 sm:mt-9 flex flex-col sm:flex-row gap-4">
             {ticketSalesOpen ? (
               <a
-                href={(content as any)?.event?.registerUrl || "#"}
+                href={(content as any)?.event?.ticketsUrl || "#"}
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center justify-center gap-2 rounded-full bg-red-600 px-6 py-3 text-base font-semibold text-white hover:bg-red-500 transition"

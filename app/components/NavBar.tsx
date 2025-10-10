@@ -28,7 +28,7 @@ export default function NavBar() {
   ];
 
   const ticketSalesOpen = Boolean((content as any)?.event?.ticketSalesOpen);
-  const registerUrl = (content as any)?.event?.registerUrl || "#";
+  const registerUrl = (content as any)?.event?.ticketsUrl || "#";
   const socials = (content as any)?.contact?.socials || {};
 
   return (
