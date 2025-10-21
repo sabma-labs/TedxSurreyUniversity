@@ -10,6 +10,7 @@ import VenueSection from "@/app/components/sections/VenueSection";
 //import WhatIsTedxSection from "@/app/components/sections/WhatIsTedxSection";
 import CountdownClient from "@/app/components/CountdownClient";
 import Footer from "@/app/components/Footer";
+import EchoesSection from "./components/sections/EchoesSection";
 
 
 export default function Page() {
@@ -28,6 +29,7 @@ export default function Page() {
       <NavBar />
       <Hero />
       <AboutSection />
+      <EchoesSection/>
       <SpeakersSection />
       <VideosSection />
       <VenueSection />

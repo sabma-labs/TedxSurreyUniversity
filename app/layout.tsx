@@ -35,7 +35,12 @@ import TicketsModal from "./components/TicketsBanner"; // ⟵ make sure this pat
 
 export const metadata: Metadata = {
   title: "TEDx Surrey University",
-  description: "Ideas worth spreading",
+  description: "Echoes of What’s Next",
+  icons: {
+    icon: "/images/favicon/favicon.ico",
+    shortcut: "/images/favicon/favicon-16x16.png",
+    apple: "/images/favicon/apple-touch-icon.png",
+  }
 };
 
 export default function RootLayout({
