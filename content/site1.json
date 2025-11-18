@@ -42,10 +42,41 @@
   "speakers": {
     "heading": "Speakers",
     "people": [
-      { "name": "Dr. Aisha Khan", "title": "AI Ethicist & Researcher", "bio": "Exploring responsible AI for the public good.", "photo": "/images/aisha-khan.jpg" },
-      { "name": "Marco Silva", "title": "Climate Entrepreneur", "bio": "Turning urban waste into clean energy.", "photo": "/images/marco-silva.jpg" },
-      { "name": "Priya Natarajan", "title": "Neuroscientist", "bio": "Mapping curiosity in the human brain.", "photo": "/images/priya-natarajan.jpg" },
-      { "name": "Jamal Edwards", "title": "Social Innovator", "bio": "Community-led solutions for safer cities.", "photo": "/images/jamal-edwards.jpg" }
+      { "name": "Dr Chris Macdonald", 
+        "title": "How virtual reality can cure your fear of public speaking", 
+        "bio": "Dr Chris Macdonald is a scientist and founder based at the University of Cambridge. He has a diverse portfolio of professional experience, including work as a consultant and manager for leading-edge tech companies in North America. Upon returning to the UK, Chris established the Immersive Technology Lab to explore the untapped potential of emerging technologies. He later founded the multi-award-winning tech start-up Cambridge VR, which translates his research into real-world impact by developing best-in-class tools for education and healthcare. Dr Macdonald was recently crowned the winner of the 40 Under 40 Award in the highly competitive Science and Innovation category. He is also the recipient of the Digital Health Award, the Digital Education Award, and the Global EdTech Award.",
+        "Idea statement": "What if you could cure any fear? How can we use emerging technologies to revolutionise training, education, and healthcare? How can we ensure such innovations are accessible to all?", 
+        "photo": "/images/speakers/speaker1.jpg" },
+  
+      {
+        "name": "Emily Gill",
+        "title": "Why Human Skills Matter Now More than Ever",
+        "bio": "Emily Gill is the Co-Founder of LEVRA, an award-winning EdTech company solving Human Skills gaps for businesses by using psychometrics, and AI to measure and develop Human Skills, such as communication, teamwork and EQ. A former Finance Lawyer at Clifford Chance, she completed her MBA at the University of Oxford and has been recognised as one of the Top 50 UK Women in Tech. Emily is a Certified Coach (CPCC) and serves as Chair of School Governors at Harris Clapham, championing inclusive education and opportunities for young people. At LEVRA, she is focused on helping organisations build future-ready workforces and ensuring Gen Z in particular have the Human Skills needed to thrive in an AI-driven world.",
+        "Idea statement": "As AI, tech and automation replace low-value tasks, where we as humans will stand out is in our ability to understand, empathise and communicate. Yet we still aren’t teaching these skills in schools, colleges or universities and we continue to label them 'soft skills', when they are anything but 'soft'. Human Skills are the skills of the future, the ones we should be teaching the next generation, and the ones that will shape humankind in the years to come.",
+        "photo": "/images/speakers/speaker2.jpg"
+      },
+      {
+        "name": "Dr Noelia Noel",
+        "title": "Preserving the Night Sky: Rethinking Satellites for a Sustainable Future",
+        "bio": "Dr Noelia Noël is an astrophysicist and director of employability within Physics at the University of Surrey. With over 120 publications, Noelia’s work bridges astrophysics, environmental science, and social justice. She leads the UK’s first in-orbit test of ultra-black satellite coatings to reduce light pollution. Her leadership has been recognised through the Santander Women 50 Leadership Programme, the Royal Society Pairing Scheme, the 2023 Vice Chancellor Award, and the Employee Network Award 2025. A passionate communicator, she has delivered invited talks at international conferences, science festivals, and Parliament, inspiring audiences to see science as a force for connection and sustainability.",
+        "Idea statement": "Satellites connect us across the globe and help us monitor our changing planet, but their growing numbers are flooding the night sky with artificial light. This scattered glow is erasing the stars and distorting the faint cosmic signals that help us understand our Universe. My talk explores how rethinking satellite design can help us protect one of humanity’s oldest shared treasures — the dark night sky — while building a more sustainable future in space.",
+        "photo": "/images/speakers/speaker3.jpg"
+      },
+      {
+        "name": "Dr Sarita Sharma",
+        "title": "Skin Ageing Is Inevitable But Decline Is Optional",
+        "bio": "Dr Sarita Sharma is a multi–award-winning skin expert, dentist (qualifying from King’s College London in 1998) and founder of Essex Sanctuary, recognised as the most trusted skin clinic in Essex. With over 21 years of experience in medical aesthetics, her work centres on science-led, reparative and regenerative approaches that help people age well with confidence and self-care. She transitioned into aesthetics, blending clinical precision with a deep understanding of psychology and patient wellbeing. She holds Platinum status with Save Face and is one of the UK’s first recognised experts in ZO Skin Health. Dr Sarita Sharma is the author of the #1 bestselling book “Transform Your Skin to Transform Your Life” and is widely published in professional media.",
+        "Idea statement": "Ageing changes our skin, but it doesn’t have to diminish our confidence. Skin ageing is not something to resist, but a biological process we can influence through science, mindset, and care. When we shift from “anti-ageing” to “pro-ageing well,” we redefine what it means to grow older with confidence, vitality, and dignity.",
+        "photo": "/images/speakers/speaker4.jpg"
+      },
+      {
+        "name": "Dr Georgia Bowers",
+        "title": "How Theatre Heals the Shame Behind Ageism",
+        "bio": "Dr Georgia Bowers is a Creative Ageing specialist, theatre practitioner, and academic who uses theatre to lobby and advocate for the rights of older adults. Her research explores how participatory theatre challenges ageism, heals the shame it creates, and supports older adults in regaining visibility, confidence, and voice, reshaping how society views ageing. She has collaborated with the Royal Opera House, Chichester Festival Theatre, and London Bubble Theatre, with her work showcased at the British Film Institute, Tate Modern, and featured by the BBC. Georgia leads the BA (Hons) Applied and Contemporary Theatre at Guildford School of Acting, University of Surrey, and her first book, Ageing Onstage: Theatre and Creative Ageing, will be published by Routledge in 2026.",
+        "Idea statement": "Dr Georgia Bowers explores how theatre can confront ageism and form resilience towards ageist-induced shame. In a culture obsessed with youth, older adults are often silenced or pushed to the margins. Through creative collaboration, they reclaim their voices, visibility, and joy, turning theatre into a radical act of resistance and a celebration of ageing fully, courageously, and unapologetically.",
+        "photo": "/images/speakers/speaker5.jpg"
+      }
+
     ]
   },
 

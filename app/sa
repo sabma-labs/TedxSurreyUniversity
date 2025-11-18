@@ -1,0 +1,4 @@
+curl -X POST "http://0.0.0.0:3000/v1/generate"   -H "X-API-Key: YOUR_KEY"   -F "userID=u_123"   -F "audio=@/home/sabma/niraj/digital-human/CosyVoice/asset/your_prompt.wav;type=audio/wav"   -F "personality=donald_trump"   -F "language=English"
+
+
+curl -X POST "https://digitalhuman.endlesssurreylab.org/v1/generate"   -H "X-API-Key: YOUR_KEY"   -F "userID=u_123"   -F "audio=@/home/sabma/niraj/digital-human/CosyVoice/asset/your_prompt.wav;type=audio/wav"   -F "personality=donald_trump"   -F "language=English"
