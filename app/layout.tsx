@@ -56,7 +56,7 @@ export default function RootLayout({
         {/* ⟵ Add the banner here, at the very end of <body> */}
         <TicketsModal
           ticketUrl={process.env.NEXT_PUBLIC_TICKETS_URL ?? "https://www.eventbrite.co.uk/e/tedxsurreyuniversity-tickets-1801426889319?aff=oddtdtcreator "}
-          subtitle="Limited early birds — secure your seat now."
+          subtitle="Few Tickets Left...ecure your seat now."
         />
       </body>
     </html>
