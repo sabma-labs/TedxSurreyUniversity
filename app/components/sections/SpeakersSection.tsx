@@ -52,7 +52,11 @@ function SpeakerCard({ speaker }: any) {
       className="group rounded-3xl overflow-hidden bg-white border border-neutral-200 hover:shadow-xl transition relative"
     >
       <div className="aspect-[4/3] overflow-hidden">
-        <img src={speaker.photo} alt={speaker.name} className="h-full w-full object-cover group-hover:scale-105 transition duration-500" />
+        <img
+          src={speaker.photo}
+          alt={speaker.name}
+          className="h-full w-full object-cover object-[center_10%] group-hover:scale-105 transition duration-500"
+        />
       </div>
 
       <div className="p-6 relative">
@@ -104,9 +108,10 @@ function SpeakerCard({ speaker }: any) {
         <img
           src={speaker.photo}
           alt={speaker.name}
-          className="w-32 h-32 rounded-full object-cover shadow-lg border border-neutral-200"
+          className="w-32 h-32 rounded-full object-cover object-[center_10%] shadow-lg border border-neutral-200"
         />
       </div>
+
 
       {/* Name */}
       <h3 className="text-2xl font-bold text-neutral-900 text-center mt-4">
