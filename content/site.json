@@ -103,6 +103,18 @@
         "bio": "Ali Borhani is a geopolitical strategist and Managing Director of 3Sixty Strategic Advisors. He advises blue-chip boardrooms, family enterprises, and UHNWIs, helping them decode complex macro signals and turn turbulence into resilient strategy. Known for his contrarian clarity, he connects disparate dots to give CEOs, investors, and Next Gen leaders the foresight needed to navigate an increasingly fractured world. A prolific writer on Substack (Futurearly) and co-founder & co-host of the BRI Dialogues podcast with the al-Sabah Programme at Durham University, Ali cuts through the noise of global disruption. He provides the narrative map essential for intelligent capital allocation and steadfast leadership when it matters most.",
         "Idea statement": "",
         "photo": "/images/speakers/speaker7.jpg"
+      },{
+        "name": "Kerry-Lyn Stanton-Downes",
+        "title": "The Future Exists – Between Us",
+        "bio": " Kerry-Lyn Stanton-Downes is a relationship psychotherapist, speaker and author. Her work centres on a simple truth: what happens between us matters most. She has worked with thousands of individuals, leaders and teams helping them move from survival to safety to success. With a background in psychology and neuroscience, Kerry-Lyn translates complex relational concepts into the 8 Principles of Relational Capacity which anyone can use. Known for her warm, direct style, she shows why relational capacity is essential in a world shaped by AI and constant change. Kerry-Lyn’s work invites people to show up with presence, curiosity and commitment to the quality of the way they relate – wherever they are.",
+        "Idea statement": "",
+        "photo": "/images/speakers/speaker8.jpg"
+      },{
+        "name": "Dr Nayanee Silva",
+        "title": "Beyond ESG: Seven Dimensions of Business Sustainability",
+        "bio": " Dr Nayanee Silva is a founder, business consultant and researcher. She serves as a Senior Advisor at CIFAL/UNITAR Surrey for UN-certified training and is an Associate Lecturer in Corporate Sustainability at the University of Surrey. She is a Sustainability Fellow at the Institute for Sustainability and a Research Fellow at the Centre for Social Innovation Management at Surrey Business School. She holds Fellowships with the Institute of Chartered Accountants (ICAEW), Chartered Management Institute and Royal Society for Arts (RSA). Her work spans research and advisory roles in corporate sustainability management, business transformation and stakeholder engagement. She engages in impact initiatives as a mentor for women entrepreneurs, the Kings’ Trust and through her foundation supporting capacity building projects in Sri Lanka.",
+        "Idea statement": "",
+        "photo": "/images/speakers/speaker9.jpg"
       }
 
     ]
@@ -177,6 +189,12 @@
 
   "sponsorship": {
     "deckUrl": "/docs/sponsorship-deck.pdf",
-    "microsoftFormUrl": "https://forms.office.com/e/4umdiFEfF6"
+    "formUrl": "https://forms.office.com/e/4umdiFEfF6",
+    "mainSponsor": {
+      "name": "Tencent Cloud",
+      "logoUrl": "/images/sponsors/tencent_cloud.png",
+      "website": "https://www.tencentcloud.com/",
+      "blurb": "Tencent Cloud supports ambitious ideas and the next generation of leaders — proud main sponsor of TEDxSurreyUniversity 2025."
+    }
   }
 }
